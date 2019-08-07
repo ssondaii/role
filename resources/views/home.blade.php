@@ -17,6 +17,9 @@
                     <br>
                     <br>
                     <a href="{{route('user')}}">User Management</a>
+                    <br>
+                    <br>
+                    <a href="{{route('Admin_Client')}}">Client Management</a>
                 </div>
             </div>
         </div>

@@ -53,3 +53,7 @@ Route::get('/user-page', function(){
 Route::get('/User_detailUser', function(){
 	return view('User_detailUser');
 })->name('User_detailUser');
+
+Route::get('/Admin_Client', function(){
+	return view('Admin_Client');
+})->name('Admin_Client');
